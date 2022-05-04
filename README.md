@@ -1,2 +1,0 @@
-# CLI-ok
-First repo
